@@ -1,4 +1,4 @@
-// File: pages/privacy.js
+"use client";
 import Head from 'next/head';
 import Link from 'next/link';
 import { useState } from 'react';

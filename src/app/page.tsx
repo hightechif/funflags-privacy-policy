@@ -86,7 +86,7 @@ export default function Home() {
               <div className="bg-green-50 p-6 rounded-lg w-full">
                 <h2 className="text-xl font-semibold text-green-800 mb-3">Privacy First</h2>
                 <p className="text-gray-700">
-                  We believe in protecting your privacy. Our app doesn't require an account and stores all progress locally on your device.
+                  We believe in protecting your privacy. Our app doesn&apos;t require an account and stores all progress locally on your device.
                 </p>
                 <div className="mt-4">
                   <Link 

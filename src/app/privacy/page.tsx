@@ -77,7 +77,7 @@ export default function Privacy() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-green-800 mb-4">Introduction</h2>
               <p className="text-gray-700 mb-4">
-                Thank you for choosing FunFlags. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("App"). We are committed to ensuring the privacy and security of your data.
+                Thank you for choosing FunFlags. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application (&quot;App&quot;). We are committed to ensuring the privacy and security of your data.
               </p>
             </section>
             
@@ -108,7 +108,7 @@ export default function Privacy() {
               <h2 className="text-2xl font-semibold text-green-800 mb-4">How We Use Your Information</h2>
               <p className="text-gray-700 mb-2">We use the information we collect to:</p>
               <ul className="list-disc pl-5 text-gray-700 mb-4">
-                <li>Improve and optimize our app's performance and user experience</li>
+                <li>Improve and optimize our app&apos;s performance and user experience</li>
                 <li>Diagnose technical issues and bugs</li>
                 <li>Analyze usage patterns to enhance features</li>
                 <li>Maintain the security and functionality of our app</li>
@@ -139,7 +139,7 @@ export default function Privacy() {
             </section>
             
             <section className="mb-8">
-              <h2 className="text-2xl font-semibold text-green-800 mb-4">Children's Privacy</h2>
+              <h2 className="text-2xl font-semibold text-green-800 mb-4">Children&apos;s Privacy</h2>
               <p className="text-gray-700 mb-4">
                 Our App is designed to be educational and is suitable for users of all ages. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information, please contact us so we can take appropriate action.
               </p>
@@ -148,7 +148,7 @@ export default function Privacy() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-green-800 mb-4">Changes to This Privacy Policy</h2>
               <p className="text-gray-700 mb-4">
-                We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
+                We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the &quot;Effective Date&quot; at the top. You are advised to review this Privacy Policy periodically for any changes.
               </p>
             </section>
             
